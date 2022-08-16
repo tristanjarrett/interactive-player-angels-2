@@ -1,0 +1,285 @@
+[
+  {
+    "id": 1,
+    "country_code": "es",
+    "vidSrc": "https://player.vimeo.com/external/697370877.m3u8?s=5525ec2f6b3187da00181775efcf05eac9d5c868",
+    "vidSrc4": "https://player.vimeo.com/external/655320201.m3u8?s=e70cf13ba46ff2f47c36891be87f00832f96aad2",
+    "vidSrc5": "https://player.vimeo.com/external/655321411.m3u8?s=ace093ceba825fb00f6f65677e7e253f7b52d778",
+    "vidSrc6": "https://player.vimeo.com/external/655322839.m3u8?s=99eb38571cc110f24a88039b18e0449c55b2e0e1",
+    "vidSrc7": "https://player.vimeo.com/external/654107652.m3u8?s=e101066a2a064fc94f1178fdd0e0ab5d6abde247",
+    "vidSrc10": "https://player.vimeo.com/external/655325858.m3u8?s=d41c6ed50f2158a30bd674a5c22bac1ed08c6f3a",
+    "vidSrc14": "https://player.vimeo.com/external/655326028.m3u8?s=ed8648786b5143cb28712e174b3e6ef8211ac4f8",
+    "storyline_dnd": "dnd",
+    "storyline_tab_a": "tab a",
+    "storyline_tab_b": "tab b",
+    "start_screen": "background_es.png",
+    "int_2_orange": "orange.png",
+    "int_2_blue": "blue.png",
+    "int_2_purple": "purple.png",
+    "int_2_yellow": "yellow.png",
+    "case_69": "69.png",
+    "case_33": "33.png",
+    "case_36": "36.png",
+    "case_291": "291.png",
+    "orange_file": "orange.pdf",
+    "blue_file": "blue.pdf",
+    "purple_file": "purple.pdf",
+    "yellow_file": "yellow.pdf",
+    "interaction_9": "ct.pdf",
+    "title": "Toma de decisiones en caso de ictus hiperagudo",
+    "subtitle": "Rita Rodrigues Dr. Francisco Moniche",
+    "start_video": "Iniciar vídeo",
+    "menu": "Menú",
+    "sections": "Secciones",
+    "close": "Cerrar",
+    "references": "Referencias",
+    "access_body_interact_case": "Acceder al caso de interacción corporal",
+    "download_checklist": "Descargar checklist",
+    "download_checklists": "Descargar checklists",
+    "checklists": "Checklists",
+    "download": "Descargar",
+    "access_nihss_training": "Acceder a la formación de la escala NIHSS",
+    "download_aha_asa_guidelines": "Descargar guías AHA/ASA",
+    "mild_or_severe_stroke_symptoms": "Síntomas de ictus leve o grave: consideraciones en las guías AHA/ASA 2018",
+    "pre_existing_disablility": "Discapacidad preexistente (mRS): consideraciones en las guías AHA/ASA 2018",
+    "access_here": "Acceder aquí",
+    "chapters": [
+      {
+        "id": 1,
+        "title": "1. Toma de decisiones en caso de ictus hiperagudo",
+        "start": "00:00.000",
+        "end": "15:48.000",
+        "label": "15 - 20 minutos",
+        "progress": false,
+        "sections": [
+          {
+            "id": 1,
+            "title": "",
+            "start": "01:11:000",
+            "end": "01:12:000",
+            "popups": 1
+          },
+          {
+            "id": 2,
+            "title": "",
+            "start": "04:05:000",
+            "end": "04:13:000",
+            "popups": 2
+          },
+          {
+            "id": 3,
+            "title": "",
+            "start": "05:12:000",
+            "end": "05:13:000",
+            "popups": 3
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "2. Cuatro pasos para tomar la decisión de tratamiento",
+        "start": "15:48.000",
+        "end": "16:08.000",
+        "label": "1 - 2 minutos",
+        "progress": false,
+        "sections": []
+      },
+      {
+        "id": 3,
+        "title": "2.1 Diagnóstico",
+        "start": "16:08.000",
+        "end": "21:24.000",
+        "label": "5 - 10 minutos",
+        "progress": false,
+        "sections": [
+          {
+            "id": 4,
+            "title": "",
+            "start": "16:23:000",
+            "end": "16:24:000",
+            "popups": 4
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "2.2 Descartar hemorragia",
+        "start": "21:24.000",
+        "end": "24:18.000",
+        "label": "1 - 5 minutos",
+        "progress": false,
+        "sections": [
+          {
+            "id": 5,
+            "title": "",
+            "start": "21:51:000",
+            "end": "21:52:000",
+            "popups": 5
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "2.3 Evaluar la gravedad",
+        "start": "24:18.000",
+        "end": "32:35.000",
+        "label": "5 - 10 minutos",
+        "progress": false,
+        "sections": [
+          {
+            "id": 6,
+            "title": "",
+            "start": "24:43:000",
+            "end": "24:44:000",
+            "popups": 6
+          },
+          {
+            "id": 7,
+            "title": "",
+            "start": "26:52:000",
+            "end": "27:07:000",
+            "popups": 7
+          },
+          {
+            "id": 8,
+            "title": "",
+            "start": "27:08:000",
+            "end": "27:55:000",
+            "popups": 8
+          },
+          {
+            "id": 9,
+            "title": "",
+            "start": "30:30:000",
+            "end": "31:54:000",
+            "popups": 9
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "2.4 Identificar las contraindicaciones",
+        "start": "32:35.000",
+        "end": "34:40.000",
+        "label": "1 - 5 minutos",
+        "progress": false,
+        "sections": [
+          {
+            "id": 10,
+            "title": "",
+            "start": "32:57:000",
+            "end": "32:58:000",
+            "popups": 10
+          },
+          {
+            "id": 11,
+            "title": "",
+            "start": "33:30:000",
+            "end": "33:31:000",
+            "popups": 11.1
+          },
+          {
+            "id": 12,
+            "title": "",
+            "start": "33:45:000",
+            "end": "33:46:000",
+            "popups": 11.2
+          },
+          {
+            "id": 13,
+            "title": "",
+            "start": "34:06:000",
+            "end": "34:07:000",
+            "popups": 12
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "3. Secuencia de tratamiento",
+        "start": "34:40.000",
+        "end": "39:48.000",
+        "label": "5 - 10 minutos",
+        "progress": false,
+        "sections": []
+      },
+      {
+        "id": 8,
+        "title": "4. Casos de ictus simulados (Body Interact)",
+        "start": "39:48.000",
+        "end": "40:14.000",
+        "label": "1 - 2 minutos",
+        "progress": false,
+        "sections": []
+      },
+      {
+        "id": 9,
+        "title": "4.1 Body Interact: caso 33",
+        "start": "40:14.000",
+        "end": "50:53.000",
+        "label": "10 - 15 minutos",
+        "progress": false,
+        "sections": [
+          {
+            "id": 15,
+            "title": "",
+            "start": "49:39:000",
+            "end": "49:54:000",
+            "popups": 13.1
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "4.2 Body Interact: caso 36",
+        "start": "50:53.000",
+        "end": "62:21.000",
+        "label": "10 - 15 minutos",
+        "progress": false,
+        "sections": [
+          {
+            "id": 16,
+            "title": "",
+            "start": "60:09:000",
+            "end": "61:15:000",
+            "popups": 13.2
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "4.3 Body Interact: caso 291",
+        "start": "62:21.000",
+        "end": "76:25.000",
+        "label": "10 - 15 minutos",
+        "progress": false,
+        "sections": [
+          {
+            "id": 17,
+            "title": "",
+            "start": "62:27:000",
+            "end": "62:46:000",
+            "popups": 13.3
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "5. Conclusión",
+        "start": "76:25.000",
+        "end": "77:11.000",
+        "label": "1 - 5 minutos",
+        "progress": false,
+        "sections": [
+          {
+            "id": 18,
+            "title": "",
+            "start": "76:56:000",
+            "end": "76:57:000",
+            "popups": 14
+          }
+        ]
+      }
+    ]
+  }
+]

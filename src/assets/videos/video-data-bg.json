@@ -1,0 +1,285 @@
+[
+  {
+    "id": 1,
+    "country_code": "bg",
+    "vidSrc": "https://player.vimeo.com/external/698183188.m3u8?s=d7ea57c367ac317271c554851a4844425a2ba1b3",
+    "vidSrc4": "https://player.vimeo.com/external/654551602.m3u8?s=274c34ddb2bd0859cfca96b41899828dd3f16c8c",
+    "vidSrc5": "https://player.vimeo.com/external/654552261.m3u8?s=d3aa881fe2ee116967433cefc89755796fac3993",
+    "vidSrc6": "https://player.vimeo.com/external/654555473.m3u8?s=e19bad085eff260f03b9f228dd349eaf2cdfc070",
+    "vidSrc7": "https://player.vimeo.com/external/654107652.m3u8?s=e101066a2a064fc94f1178fdd0e0ab5d6abde247",
+    "vidSrc10": "https://player.vimeo.com/external/654555379.m3u8?s=81996cecc9b4fa790308f1afe6127892515dc8e9",
+    "vidSrc14": "https://player.vimeo.com/external/654551257.m3u8?s=3a5ffc40c24571bbbf6b7392da304914dc79d9a4",
+    "storyline_dnd": "dnd",
+    "storyline_tab_a": "tab a",
+    "storyline_tab_b": "tab b",
+    "start_screen": "background_bg.png",
+    "int_2_orange": "orange.png",
+    "int_2_blue": "blue.png",
+    "int_2_purple": "purple.png",
+    "int_2_yellow": "yellow.png",
+    "case_69": "69.png",
+    "case_33": "33.png",
+    "case_36": "36.png",
+    "case_291": "291.png",
+    "orange_file": "orange.pdf",
+    "blue_file": "blue.pdf",
+    "purple_file": "purple.pdf",
+    "yellow_file": "yellow.pdf",
+    "interaction_9": "ct.pdf",
+    "title": "Вземане на решение при свръхостър инсулт",
+    "subtitle": "Рита Родригес д-р Франциско Мониче",
+    "start_video": "Стартиране на видеоклипа",
+    "menu": "Меню",
+    "sections": "Раздели",
+    "close": "Затваряне",
+    "references": "Препратки",
+    "access_body_interact_case": "Достъп до случай от Body Interact",
+    "download_checklist": "Изтегляне на контролен списък",
+    "download_checklists": "Изтегляне на контролни списъци",
+    "checklists": "Контролни списъци",
+    "download": "Изтегляне",
+    "access_nihss_training": "Достъп до обучение за скалата NIHSS",
+    "download_aha_asa_guidelines": "Изтегляне на насоките на Американската сърдечна асоциация (AHA) / Американската асоциация по инсулти (ASA)",
+    "mild_or_severe_stroke_symptoms": "Леки или тежки симптоми на инсулт – критерии, изложени в насоките на AHA/ASA от 2018 г.",
+    "pre_existing_disablility": "Вече съществуващо увреждане (mRS) – критерии, изложени в насоките на AHA/ASA от 2018 г.",
+    "access_here": "Достъп от тук",
+    "chapters": [
+      {
+        "id": 1,
+        "title": "1. Вземане на решение при свръхостър инсулт",
+        "start": "00:00.000",
+        "end": "15:48.000",
+        "label": "15 - 20 минути",
+        "progress": false,
+        "sections": [
+          {
+            "id": 1,
+            "title": "",
+            "start": "01:11:000",
+            "end": "01:12:000",
+            "popups": 1
+          },
+          {
+            "id": 2,
+            "title": "",
+            "start": "04:05:000",
+            "end": "04:13:000",
+            "popups": 2
+          },
+          {
+            "id": 3,
+            "title": "",
+            "start": "05:12:000",
+            "end": "05:13:000",
+            "popups": 3
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "2. 4 Cтъпки за вземане на терапевтично решение",
+        "start": "15:48.000",
+        "end": "16:08.000",
+        "label": "1 - 2 минути",
+        "progress": false,
+        "sections": []
+      },
+      {
+        "id": 3,
+        "title": "2.1 Диагноза",
+        "start": "16:08.000",
+        "end": "21:24.000",
+        "label": "5 - 10 минути",
+        "progress": false,
+        "sections": [
+          {
+            "id": 4,
+            "title": "",
+            "start": "16:23:000",
+            "end": "16:24:000",
+            "popups": 4
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "2.2 Изключване на кървене",
+        "start": "21:24.000",
+        "end": "24:18.000",
+        "label": "1 - 5 минути",
+        "progress": false,
+        "sections": [
+          {
+            "id": 5,
+            "title": "",
+            "start": "21:51:000",
+            "end": "21:52:000",
+            "popups": 5
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "2.3 Оценка на тежестта",
+        "start": "24:18.000",
+        "end": "32:35.000",
+        "label": "5 - 10 минути",
+        "progress": false,
+        "sections": [
+          {
+            "id": 6,
+            "title": "",
+            "start": "24:43:000",
+            "end": "24:44:000",
+            "popups": 6
+          },
+          {
+            "id": 7,
+            "title": "",
+            "start": "26:52:000",
+            "end": "27:07:000",
+            "popups": 7
+          },
+          {
+            "id": 8,
+            "title": "",
+            "start": "27:08:000",
+            "end": "27:55:000",
+            "popups": 8
+          },
+          {
+            "id": 9,
+            "title": "",
+            "start": "30:30:000",
+            "end": "31:54:000",
+            "popups": 9
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "2.4 Установяване на противопоказанията ",
+        "start": "32:35.000",
+        "end": "34:40.000",
+        "label": "1 - 5 минути",
+        "progress": false,
+        "sections": [
+          {
+            "id": 10,
+            "title": "",
+            "start": "32:57:000",
+            "end": "32:58:000",
+            "popups": 10
+          },
+          {
+            "id": 11,
+            "title": "",
+            "start": "33:30:000",
+            "end": "33:31:000",
+            "popups": 11.1
+          },
+          {
+            "id": 12,
+            "title": "",
+            "start": "33:45:000",
+            "end": "33:46:000",
+            "popups": 11.2
+          },
+          {
+            "id": 13,
+            "title": "",
+            "start": "34:06:000",
+            "end": "34:07:000",
+            "popups": 12
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "3. Алгоритъм на лечение",
+        "start": "34:40.000",
+        "end": "39:48.000",
+        "label": "5 - 10 минути",
+        "progress": false,
+        "sections": []
+      },
+      {
+        "id": 8,
+        "title": "4. Случаи от Body Interact",
+        "start": "39:48.000",
+        "end": "40:14.000",
+        "label": "1 - 2 минути",
+        "progress": false,
+        "sections": []
+      },
+      {
+        "id": 9,
+        "title": "4.1 Случай от Body Interact 33",
+        "start": "40:14.000",
+        "end": "50:53.000",
+        "label": "10 - 15 минути",
+        "progress": false,
+        "sections": [
+          {
+            "id": 15,
+            "title": "",
+            "start": "49:39:000",
+            "end": "49:54:000",
+            "popups": 13.1
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "4.2 Случай от Body Interact 36",
+        "start": "50:53.000",
+        "end": "62:21.000",
+        "label": "10 - 15 минути",
+        "progress": false,
+        "sections": [
+          {
+            "id": 16,
+            "title": "",
+            "start": "60:09:000",
+            "end": "61:15:000",
+            "popups": 13.2
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "4.3 Случай от Body Interact 291",
+        "start": "62:21.000",
+        "end": "76:25.000",
+        "label": "10 - 15 минути",
+        "progress": false,
+        "sections": [
+          {
+            "id": 17,
+            "title": "",
+            "start": "62:27:000",
+            "end": "62:46:000",
+            "popups": 13.3
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "5. Заключение",
+        "start": "76:25.000",
+        "end": "77:11.000",
+        "label": "1 - 5 минути",
+        "progress": false,
+        "sections": [
+          {
+            "id": 18,
+            "title": "",
+            "start": "76:56:000",
+            "end": "76:57:000",
+            "popups": 14
+          }
+        ]
+      }
+    ]
+  }
+]
